@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pixel-pink-calculator-v1';
+const CACHE_NAME = 'pokemon-calculator-v1';
 const APP_SHELL = [
   './',
   './index.html',
