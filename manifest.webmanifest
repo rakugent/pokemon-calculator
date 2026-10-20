@@ -1,7 +1,7 @@
 {
   "id": "./",
   "name": "Pokemon Calculator",
-  "short_name": "Pokemon Calculator",
+  "short_name": "Calculator",
   "description": "A Pokemon pixel-style calculator",
   "start_url": "./",
   "scope": "./",
